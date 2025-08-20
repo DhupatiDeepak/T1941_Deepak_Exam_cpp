@@ -76,6 +76,8 @@ The Fleet Management System is a C++ application that monitors and manages a fle
 Workspace
 Collecting workspace information
 
+```
+
 I'll help you create a comprehensive README.md file for your Fleet Management project:
 
 fleet-management/
@@ -93,7 +95,7 @@ fleet-management/
 ├── CMakeLists.txt         # CMake configuration
 └── README.md              # Project documentation
 
-
+```
 
 ## Project Workflow
 
