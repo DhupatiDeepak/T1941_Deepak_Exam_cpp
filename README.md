@@ -78,7 +78,20 @@ Collecting workspace information
 
 I'll help you create a comprehensive README.md file for your Fleet Management project:
 
-fleet-management/ ├── src/ │ ├── Vehicle.h # Vehicle class definition │ ├── Vehicle.cpp # Vehicle class implementation │ ├── FleetManager.h # FleetManager class definition │ ├── FleetManager.cpp # FleetManager class implementation │ ├── main.cpp # Main application entry point │ └── tests/ # Unit tests directory │ ├── catch.hpp # Catch2 testing framework │ └── FleetTests.cpp # Test implementations ├── data/ │ └── vehicles.csv # Sample vehicle data ├── CMakeLists.txt # CMake configuration └── README.md # Project documentation
+fleet-management/
+├── src/
+│   ├── Vehicle.h          # Vehicle class definition
+│   ├── Vehicle.cpp        # Vehicle class implementation
+│   ├── FleetManager.h     # FleetManager class definition
+│   ├── FleetManager.cpp   # FleetManager class implementation
+│   ├── main.cpp           # Main application entry point
+│   └── tests/             # Unit tests directory
+│       ├── catch.hpp      # Catch2 testing framework
+│       └── FleetTests.cpp # Test implementations
+├── data/
+│   └── vehicles.csv       # Sample vehicle data
+├── CMakeLists.txt         # CMake configuration
+└── README.md              # Project documentation
 
 
 
